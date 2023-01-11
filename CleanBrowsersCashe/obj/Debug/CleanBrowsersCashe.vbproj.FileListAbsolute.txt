@@ -1,0 +1,22 @@
+D:\01 SYSTEMNETCAFE\Projects\CleanBrowsersCashe\CleanBrowsersCashe\bin\Debug\CleanBrowsersCashe.exe.config
+D:\01 SYSTEMNETCAFE\Projects\CleanBrowsersCashe\CleanBrowsersCashe\bin\Debug\CleanBrowsersCashe.exe
+D:\01 SYSTEMNETCAFE\Projects\CleanBrowsersCashe\CleanBrowsersCashe\bin\Debug\CleanBrowsersCashe.pdb
+D:\01 SYSTEMNETCAFE\Projects\CleanBrowsersCashe\CleanBrowsersCashe\bin\Debug\CleanBrowsersCashe.xml
+D:\01 SYSTEMNETCAFE\Projects\CleanBrowsersCashe\CleanBrowsersCashe\obj\Debug\CleanBrowsersCashe.vbprojAssemblyReference.cache
+D:\01 SYSTEMNETCAFE\Projects\CleanBrowsersCashe\CleanBrowsersCashe\obj\Debug\CleanBrowsersCashe.Form1.resources
+D:\01 SYSTEMNETCAFE\Projects\CleanBrowsersCashe\CleanBrowsersCashe\obj\Debug\CleanBrowsersCashe.Resources.resources
+D:\01 SYSTEMNETCAFE\Projects\CleanBrowsersCashe\CleanBrowsersCashe\obj\Debug\CleanBrowsersCashe.vbproj.GenerateResource.cache
+D:\01 SYSTEMNETCAFE\Projects\CleanBrowsersCashe\CleanBrowsersCashe\obj\Debug\CleanBrowsersCashe.vbproj.CoreCompileInputs.cache
+D:\01 SYSTEMNETCAFE\Projects\CleanBrowsersCashe\CleanBrowsersCashe\obj\Debug\CleanBrowsersCashe.exe
+D:\01 SYSTEMNETCAFE\Projects\CleanBrowsersCashe\CleanBrowsersCashe\obj\Debug\CleanBrowsersCashe.xml
+D:\01 SYSTEMNETCAFE\Projects\CleanBrowsersCashe\CleanBrowsersCashe\obj\Debug\CleanBrowsersCashe.pdb
+C:\Users\korsa\Desktop\cleanbrowserscashe_1\CleanBrowsersCashe\CleanBrowsersCashe\bin\Debug\CleanBrowsersCashe.exe.config
+C:\Users\korsa\Desktop\cleanbrowserscashe_1\CleanBrowsersCashe\CleanBrowsersCashe\obj\Debug\CleanBrowsersCashe.exe
+C:\Users\korsa\Desktop\cleanbrowserscashe_1\CleanBrowsersCashe\CleanBrowsersCashe\obj\Debug\CleanBrowsersCashe.xml
+C:\Users\korsa\Desktop\cleanbrowserscashe_1\CleanBrowsersCashe\CleanBrowsersCashe\obj\Debug\CleanBrowsersCashe.pdb
+C:\Users\korsa\Desktop\cleanbrowserscashe_1\CleanBrowsersCashe\CleanBrowsersCashe\bin\Debug\CleanBrowsersCashe.exe
+C:\Users\korsa\Desktop\cleanbrowserscashe_1\CleanBrowsersCashe\CleanBrowsersCashe\bin\Debug\CleanBrowsersCashe.pdb
+C:\Users\korsa\Desktop\cleanbrowserscashe_1\CleanBrowsersCashe\CleanBrowsersCashe\bin\Debug\CleanBrowsersCashe.xml
+C:\Users\korsa\Desktop\cleanbrowserscashe_1\CleanBrowsersCashe\CleanBrowsersCashe\obj\Debug\CleanBrowsersCashe.Form1.resources
+C:\Users\korsa\Desktop\cleanbrowserscashe_1\CleanBrowsersCashe\CleanBrowsersCashe\obj\Debug\CleanBrowsersCashe.Resources.resources
+C:\Users\korsa\Desktop\cleanbrowserscashe_1\CleanBrowsersCashe\CleanBrowsersCashe\obj\Debug\CleanBrowsersCashe.vbproj.GenerateResource.Cache
